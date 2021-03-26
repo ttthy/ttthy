@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">👋 Hi there! I'm Thy (Tee).</h1>
 
 <!--
 **ttthy/ttthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+	<a href="https://github.com/ttthy"><img src="https://img.shields.io/badge/Github-282C34?logo=github" alt="Github"></a>
+	<a href="https://twitter.com/thy2512"><img src="https://img.shields.io/badge/Github-282C34?logo=github" alt="Twitter"></a>
+</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttthy&layout=compact&hide=html&theme=algolia" alt="ttthy" />
