@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 😄 Pronouns: She/her
+
 <p align="center">
 	<a href="https://github.com/ttthy"><img src="https://img.shields.io/badge/Github-282C34?logo=github" alt="Github"></a>
-	<a href="https://twitter.com/thy2512"><img src="https://img.shields.io/badge/Github-282C34?logo=github" alt="Twitter"></a>
+	<a href="https://twitter.com/thy2512"><img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" alt="Twitter"></a>
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttthy&layout=compact&hide=html&theme=algolia" alt="ttthy" />
